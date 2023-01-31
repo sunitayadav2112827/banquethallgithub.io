@@ -185,7 +185,7 @@ padding:1.5rem 9% ;
 }
 
 .about .row .image{
-    flex:1 1 .45rem;
+    flex:1 1 45rem;
     padding:1rem;
 }
 
@@ -196,7 +196,7 @@ padding:1.5rem 9% ;
 }
 
 .about .row .content{
-    flex:1 1 .45rem;
+    flex:1 1 45rem;
 }
 
 .about .row .content h3{
